@@ -1,4 +1,4 @@
 
 # Grimoire
 
-the Verdant Scriptorium
+> The Verdant Scriptorium
