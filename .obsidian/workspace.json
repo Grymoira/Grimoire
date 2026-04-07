@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "荒野的召唤备份方案.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "荒野的召唤备份方案"
+              "title": "README"
             }
           }
         ]
@@ -187,8 +187,10 @@
   },
   "active": "908460e5b01e11e2",
   "lastOpenFiles": [
-    "gitignore",
     "荒野的召唤备份方案.md",
+    "README.md",
+    "test_sign.txt",
+    "gitignore",
     "Welcome.md"
   ]
 }
