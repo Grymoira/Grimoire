@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/C_string.h.md",
+                "file": "Inbox/犬吠·引子.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C_string.h"
+              "title": "犬吠·引子"
             }
           }
         ]
@@ -185,10 +185,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a938fba713f599cf",
+  "active": "a809292905a4c08d",
   "lastOpenFiles": [
-    "Daily/2025.10.17.md",
+    "Inbox/荒野的召唤备份方案.md",
+    "Inbox/犬吠·引子.md",
+    "Inbox/版本号命名·Color.md",
+    "Inbox/版本号命名.md",
+    "Inbox/非官方激活Windows系统专业版.md",
     "Inbox/C_string.h.md",
+    "Daily/2026.3.26.md",
+    "Daily/2025.10.17.md",
     "Daily/2025.10.22.md",
     "Daily/2025.10.10.md",
     "Daily/2025.2.20.md",
@@ -200,9 +206,6 @@
     "README.md",
     "Inbox/图灵完备 Turing Complete.md",
     "Inbox/今天和昨天.md",
-    "Inbox/荒野的召唤备份方案.md",
-    "Inbox/版本号命名.md",
-    "Inbox/非官方激活Windows系统专业版.md",
     "Pasted image 20260407205659.jpg",
     "Daily/2023.4.13.md",
     "Pasted image 20260407205540.jpg",
@@ -214,9 +217,6 @@
     "Daily/2025.10.20.md",
     "Daily/2025.10.19.md",
     "Daily/2025.10.18.md",
-    "Daily/2025.10.16.md",
-    "Daily/2025.10.15.md",
-    "Daily/2025.10.14.md",
     "Daily",
     "Git",
     "test_sign.txt",

@@ -1,6 +1,4 @@
 
-# string.h
-
 ## strcmp
 
 string compare的缩写；
