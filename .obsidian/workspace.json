@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cd4ed7ec3b604158",
+        "id": "6dbd2a43676ad827",
         "type": "tabs",
         "children": [
           {
-            "id": "a809292905a4c08d",
+            "id": "c58afffbc342bf5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/荒野的召唤备份方案.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "荒野的召唤备份方案"
+              "title": "新标签页"
             }
           }
         ]
@@ -185,24 +181,38 @@
       "bases:新建数据库": false
     }
   },
-  "active": "a809292905a4c08d",
+  "active": "c58afffbc342bf5c",
   "lastOpenFiles": [
-    "Inbox/非官方激活Windows系统专业版.md",
+    "Story/Bark·引子.md",
+    "Story/Bark·个人.md",
+    "Story/Bark·句子.md",
+    "Story/Bark·参演者.md",
+    "Story/Bark·大纲.md",
+    "Story/Bark·序章.md",
+    "Story/Bark·废稿.md",
+    "Story/Bark·第一章.md",
+    "Story",
+    "Poems/大纲.md",
     "Inbox/荒野的召唤备份方案.md",
-    "Inbox/犬吠·引子.md",
-    "Inbox/版本号命名.md",
-    "Inbox/图灵完备 Turing Complete.md",
-    "Inbox/今天和昨天.md",
-    "Inbox/The .zshrc.md",
-    "Inbox/The .vimrc.md",
-    "Inbox/The .bashrc.md",
-    "Ubuntu/Beautify Terminal.md",
-    "Ubuntu/Delete Snap.md",
-    "Ubuntu/Install Factx5.md",
-    "Inbox/How to use the zoxide.md",
+    "Poems/集合/玫瑰海·血色.md",
+    "Poems/集合/玫瑰海·秋羽·风边温柔.md",
+    "Poems/集合/玫瑰海·秋羽·这个下午.md",
+    "Poems/集合/玫瑰海·秋羽·池水.md",
+    "Poems/集合/玫瑰海·疯子会握住玫瑰.md",
+    "Poems/集合/玫瑰海·玫瑰花开.md",
+    "Poems/集合/玫瑰海·潮汐·渡口.md",
+    "Poems/集合/玫瑰海·月辉·流星.md",
+    "Poems/集合/玫瑰海·憧憬·祷告.md",
+    "Poems/集合/玫瑰海·憧憬·白日梦.md",
+    "Poems/集合/玫瑰海·憧憬·没有年纪.md",
+    "Poems/集合/玫瑰海·憧憬·欲与天仙.md",
+    "Poems/集合/玫瑰海·憧憬·不再可能.md",
+    "Poems/集合/玫瑰海·彼端·求苦.md",
+    "Poems/集合/玫瑰海·彼端·来自脆弱的坚强.md",
+    "Poems/集合/玫瑰海·彼端·借口.md",
+    "Poems/集合",
+    "Poems",
     "Ubuntu",
-    "blender/logs.md",
-    "Inbox/Close the UFW of the cachyos.md",
     "wallpaper/Gallary/1752310118727.jpeg",
     "wallpaper/Gallary/pink-background.jpeg",
     "wallpaper/Gallary/Screenshot from 2026-04-10 18-38-28.png",
@@ -218,20 +228,6 @@
     "wallpaper/A681152D39CE6371DB8A9A6CD65BCC5D_1752201535918.webp.jpg",
     "wallpaper/1752310735065.jpeg",
     "wallpaper/1752310628523.jpeg",
-    "wallpaper/1752310628159.png",
-    "wallpaper",
-    "Genshin/logs.md",
-    "blender/sofa/backup1/sofa.blend1",
-    "blender/sofa/backup1/sofa.blend",
-    "Random Password In Terminal.md",
-    "Inbox/版本号命名·Color.md",
-    "Inbox/C_string.h.md",
-    "Daily/2026.3.26.md",
-    "Daily/2025.10.17.md",
-    "Daily/2025.10.22.md",
-    "Daily/2025.10.10.md",
-    "Daily/2025.2.20.md",
-    "Daily/2025.2.4.md",
-    "Daily/2023.3.30.md"
+    "wallpaper/1752310628159.png"
   ]
 }
